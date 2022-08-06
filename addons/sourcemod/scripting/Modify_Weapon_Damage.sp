@@ -20,7 +20,7 @@ public Plugin:myinfo =
 public OnPluginStart()
 {
 	Format(CfgFile, sizeof(CfgFile), "sourcemod/%s.cfg", CFG_NAME);
-	g_modifyw = CreateConVar("sm_modify_weapon", "weapon_deagle", "which weapon do you want to modify damage");
+	g_modifyw = CreateConVar("sm_modify_weapon", "weapon_deagle", "which weapon do you want to modify damage https://github.com/oqyh/modify_weapons_damage/blob/main/List%20Of%20weapon_.txt");
 	g_damage = CreateConVar( "sm_modify_damage", "300", "Damage Fist Deal  || 0= No Damage || 1= Lowest Damage || 300= 1 Hit");
 
 	for (int i = 1; i < MaxClients; ++i)
