@@ -1,100 +1,76 @@
-Pistols
-weapon_deagle - Desert Eagle
-weapon_revolver - R8 Revolver
-weapon_glock - Glock-18
-weapon_usp_silencer - USP-S
-weapon_cz75a - CZ75-Auto
-weapon_fiveseven - Five-SeveN
-weapon_p250 - P250
-weapon_tec9 - Tec-9
-weapon_elite - Dual Berettas
-weapon_hkp2000 - P2000
-
-SMGs
-weapon_mp9 - MP9
-weapon_mac10 - MAC-10
-weapon_bizon - PP-Bizon
-weapon_mp7 - MP7
-weapon_ump45 - UMP-45
-weapon_p90 - P90
-weapon_mp5sd - MP5-SD
-
-Rifles
-weapon_famas - FAMAS
-weapon_galilar - Galil AR
-weapon_m4a4 - M4A4
-weapon_m4a1_silencer - M4A1-S
-weapon_ak47 - AK-47
-weapon_aug - AUG
-weapon_sg553 - SG-553
-
-Sniper Rifles
-weapon_ssg08 - SSG 08
-weapon_awp - AWP
-weapon_scar20 - SCAR-20
-weapon_g3sg1 - G3SG1
-
-Shotguns
-weapon_nova - Nova
-weapon_xm1014 - XM1014
-weapon_mag7 - MAG-7
-weapon_sawedoff - Sawed-Off
-
-Machine Guns
-weapon_m249 - M249
-weapon_negev - Negev
-
-Knives
-weapon_bayonet - Bayonet
-weapon_m9_bayonet - М9 Bayonet
-weapon_butterfly - Butterfly Knife
-weapon_falchion - Falchion Knife
-weapon_flip - Flip Knife
-weapon_gut - Gut Knife
-weapon_tactical - Huntsman Knife
-weapon_karambit - Karambit
-weapon_survival_bowie - Bowie Knife
-weapon_knife_push - Shadow Dagger
-weapon_knife_t - Default terrorists knife
-weapon_knife_ct - Default counter-terrorists knife
-weapon_knifegg - Gold Knife
-weapon_knife_ursus - Ursus Knife
-weapon_knife_gypsy_jackknife - Navaja Knife
-weapon_knife_stiletto - Stiletto Knife
-weapon_knife_widowmaker - Talon Knife
-weapon_knife_canis - Survival Knife
-weapon_knife_cord - Paracord Knife
-weapon_knife_skeleton - Skeleton Knife
-weapon_knife_outdoor - Nomad Knife
+Other
+=======================================
+Snowball	|| weapon_snowball
+Zeus x27	|| weapon_taser
+Ballistic Shield	|| weapon_shield
+Breach Charge	|| weapon_breachcharge
+Bump Mine	|| weapon_bumpmine
+Medi-Shot	|| weapon_healthshot
+Fists	|| weapon_fists
+Tablet	|| weapon_tablet
+C4	|| weapon_c4
+Tablet	|| weapon_tablet
+Gold Knife	|| weapon_knifegg
+Knife	|| weapon_knife
 
 Grenades
-weapon_decoy - Decoy
-weapon_flashbang - Flashbang Grenade
-weapon_smokegrenade - Smoke Grenade
-weapon_hegrenade - HE Grenade
-weapon_molotov - Molotov
-weapon_incgrenade - Incgrenade (CT molotov)
+=======================================
+High-explosive Grenade	|| weapon_hegrenade
+Decoy Grenade	|| weapon_decoy
+Flashbang Grenade	|| weapon_flashbang
+Smoke Grenade	|| weapon_smokegrenade
+Molotov Grenade	|| weapon_molotov
+Incendiary Grenade	|| weapon_incgrenade
+Tag Grenade	|| weapon_tagrenade
 
-Equipment
-item_assaultsuit - Kevlar+Helmet
-weapon_c4 - C4 bomb
-item_defuser - Defuse Kit
-weapon_taser - Zeus
-item_kevlar - Kevlar
+Pistols
+=======================================
+Glock-18	|| weapon_glock
+Dual Berettas	|| weapon_elite
+P250	|| weapon_p250
+Tec-9	|| weapon_tec9
+CZ75-Auto	|| weapon_cz75a
+Desert Eagle	|| weapon_deagle
+R8 Revolver	|| weapon_revolver
+USP-S	|| weapon_usp_silencer
+P2000	|| weapon_hkp2000
+Five-Seven	|| weapon_fiveseven
 
-Mission Gear
-item_nvgs - Nightvision
-item_heavyassaultsuit - Heavy Assault Suit
-item_cutters - Rescue Kit
-weapon_healthshot - Healshot
-weapon_tagrenade - Tactical Awareness Grenade
-weapon_breachcharge - Breachcharge
+Shotguns
+=======================================
+Nova	|| weapon_nova
+XM1014	|| weapon_xm1014
+Sawed-Off	|| weapon_sawedoff
+MAG-7	|| weapon_mag7
+Molotov Grenade	|| weapon_molotov
 
-Danger Zone
-weapon_diversion - Diversion Device
-weapon_firebomb - Firebomb
-weapon_frag - Frag Grenade
-weapon_snowball - Snowball
-weapon_tablet - Tablet
-weapon_bumpmine - Bump Mine
-weapon_shield - Ballistic shield
+SMGs
+=======================================
+MAC-10	|| weapon_mac10
+MP7	|| weapon_mp7
+UMP-45	|| weapon_ump45
+P90	|| weapon_p90
+PP-Bizon	|| weapon_bizon
+MP9	|| weapon_mp9
+MP5-SD	|| weapon_mp5sd
+
+Assault Rifles
+=======================================
+Galil AR	|| weapon_galilar
+AK-47	|| weapon_ak47
+SG 553	|| weapon_sg556
+FAMAS	|| weapon_famas
+M4A4	|| weapon_m4a4
+M4A1-S	|| weapon_m4a1_silencer
+AUG	|| weapon_aug
+
+Sniper Rifles
+=======================================
+SSG 08	|| weapon_ssg08
+AWP	|| weapon_awp
+G3SG1	|| weapon_g3sg1
+SCAR-20	|| weapon_scar20
+Machine Guns
+Machine Gun	Command
+M249	|| weapon_m249
+Negev	|| weapon_negev
