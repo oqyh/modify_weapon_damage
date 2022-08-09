@@ -1,5 +1,5 @@
 # [ANY] Modify Weapon Damage (1.0.0)
-https://forums.alliedmods.net/showthread.php?p=2786018#post2786018
+https://forums.alliedmods.net/showthread.php?p=2786018
 
 ### Modify Weapon Damage ( Change any weapon damage )
 
