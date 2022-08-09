@@ -10,7 +10,7 @@
 ## .:[ ConVars ]:.
 ```
   
-// which weapon do you want to modify damage https://github.com/oqyh/modify_weapons_damage/blob/main/List%20Of%20weapon_.txt
+// which weapon do you want to modify damage https://github.com/oqyh/modify_weapon_damage/tree/main/example-weapons-id
 // -
 // Default: "weapon_deagle"
 sm_modify_weapon "weapon_deagle"
