@@ -3,6 +3,8 @@
 ### Modify Weapon Damage ( Change any weapon damage )
 
 ![alt text](https://github.com/oqyh/modify_weapons_damage/blob/main/img/Damage.jpg?raw=true)
+![alt text](https://github.com/oqyh/modify_weapon_damage/blob/main/img/screen2.jpg?raw=true)
+![alt text](https://github.com/oqyh/modify_weapon_damage/blob/main/img/screenshop.jpg?raw=true)
 
 
 ## .:[ ConVars ]:.
